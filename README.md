@@ -4,7 +4,7 @@ This project focuses on advancing **Human Activity Recognition (HAR)** using **t
 
 The dataset comprises both labeled and unlabeled acceleration data, providing a robust benchmark for evaluating various machine learning and deep learning approaches. Key tasks include data preprocessing, model training, performance evaluation, and experimentation with state-of-the-art techniques such as **1D-CNNs**, **autoencoders**, and **bidirectional LSTMs**.
 
-
+&nbsp;  
 ### **Key Objectives**
 1. **Data Analysis and Preprocessing**:
    - Conduct exploratory analysis to understand dataset structure and activity distribution.
@@ -23,7 +23,7 @@ The dataset comprises both labeled and unlabeled acceleration data, providing a 
    - Use metrics like **accuracy**, **precision**, and **loss** for evaluation.
    - Compare classical models and deep learning architectures to assess strengths and limitations.
   
-
+&nbsp;  
 ### **Dataset Analysis**
 - The dataset comprises time-series acceleration data from wearable sensors.
 - Includes both labeled and unlabeled data for supervised and self-supervised tasks.
@@ -31,6 +31,7 @@ The dataset comprises both labeled and unlabeled acceleration data, providing a 
   - Segmentation of time-series data into smaller, fixed-length windows.
   - Sensor normalization to handle variability in measurements.
 
+&nbsp; 
 ### **Methodology**
 1. **Classical Models**:
    - Feature extraction (e.g., mean, variance, skewness) to represent time-series data.
