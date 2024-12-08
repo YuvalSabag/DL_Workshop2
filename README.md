@@ -1,4 +1,4 @@
-# Deep Learning Workshop 2: Human Activity Recognition Using Wearable Sensors**
+## **Deep Learning Workshop 2: Human Activity Recognition Using Wearable Sensors**
 
 This project focuses on advancing **Human Activity Recognition (HAR)** using **time-series data** collected from wearable sensors. The primary objective is to classify human activities (e.g., walking, running, sitting) by leveraging both classical machine learning techniques and advanced deep learning models.By integrating feature extraction, self-supervised learning, and neural network enhancements, this project offers effective solutions for time-series classification.
 
